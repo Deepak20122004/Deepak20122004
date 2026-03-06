@@ -24,9 +24,9 @@
 
 ### 📌 Projects
 - 🔹 **Portfolio Website** – React & Tailwind CSS  
-- 🔹 **To-Do App** – React (CRUD functionality)  
-- 🔹 **Login & Signup System** – MERN Stack  
-- 🔹 **CRUD Application** – Node.js & MongoDB  
+- 🔹 **Login & Signup System** – MERN Stack
+- 🔹 **Medical Management System** – MERN Stack (CRUD functionality)   
+  
 
 *(More projects coming soon 🚀)*
 
